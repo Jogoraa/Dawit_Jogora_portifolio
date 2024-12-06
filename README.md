@@ -9,6 +9,5 @@ Currently, two official plugins are available:
 
 ## Screenshot
 
-![App Screenshot](./assets/image.png)
+![App Screenshot](./image.png)
 
-**
